@@ -1,7 +1,7 @@
 # Site settings
 title: "Introduction to Scientific and Engineering Computing - ITU Economics"
 description: "BIL 113E Open Course Materials for MATLAB, Python and R"
-baseurl: "/bil113e"
+baseurl: "/ecn301e"
 url: "http://itueconomics.github.io"
 twitter_username: ituecon
 github_username:  itueconomics
