@@ -1,6 +1,6 @@
 # Site settings
-title: "Introduction to Scientific and Engineering Computing - ITU Economics"
-description: "BIL 113E Open Course Materials for MATLAB, Python and R"
+title: "Econometrics I"
+description: "Simple regression model and OLS Estimate, Assumptions of Classical Linear Regression model, Interval estimate and hypothesis testing, Alternative Functional forms of regression models, Multivariate regression model and inference, Maximum likelihood method, structural stability tests, matrix approach to regression model"
 baseurl: "/ecn301e"
 url: "http://itueconomics.github.io"
 twitter_username: ituecon
