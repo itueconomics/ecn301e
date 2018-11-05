@@ -1,1 +1,1 @@
-# ecn301e
+This notes are belong to the ITU Economics department.
